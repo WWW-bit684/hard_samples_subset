@@ -6,6 +6,8 @@ A hard sample subset was constructed by selecting challenging examples from the 
 
 ![samples](images/samples.png)
 
+
+
 **Reference:**
 ```latex
 [1] Liu X, Liu W, Mei T, et al. A deep learning-based approach to progressive vehicle re-identification for urban surveillance[C]//Computer Vision–ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part II 14. Springer International Publishing, 2016: 869-884.
