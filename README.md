@@ -1,6 +1,6 @@
 # A Hard Samples Subset for V-ReID
 
-A hard sample subset was constructed by selecting challenging examples from the VeRi-776$^{[1]}$ test set. These samples involve issues such as viewpoint variations, lighting changes, serious occlusions, which pose greater challenges to the model's discriminative ability. In addition, some hard samples were extracted from the VehicleID$^{[2]}$ dataset and added to the hard sample subset. These samples were used as unknown categories samples in the hard samples prediction experiment. The complete subset will be made publicly available after the manuscript is accepted.
+A hard sample subset was constructed by selecting challenging examples from the VeRi-776<sup>[1]</sup> test set. These samples involve issues such as viewpoint variations, lighting changes, serious occlusions, which pose greater challenges to the model's discriminative ability. In addition, some hard samples were extracted from the VehicleID<sup>[2]</sup> dataset and added to the hard sample subset. These samples were used as unknown categories samples in the hard samples prediction experiment. The complete subset will be made publicly available after the manuscript is accepted.
 
 **Example:**
 
